@@ -31,13 +31,18 @@ Exemples
 
 ## Langage
 
-Au choix 
+Au choix:
 
 * Javascript 
 * Java 
+* Pyhton
+* Go
+* etc
 
 Example de boostrap: 
   
-* [Javascript + mocha + chai](https://github.com/jrollin/vanilla-babel-mocha)
+* [Javascript ES6 + mocha + chai](https://github.com/jrollin/vanilla-babel-mocha)
+* [Javascript Node + mocha](https://github.com/jrollin/node-mocha-bootstrap)
 * [Java + junit5](https://github.com/jrollin/java-kata-bootstrap)
+* [Python + unittest](https://github.com/jrollin/python-bootstrap)
   
